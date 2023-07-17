@@ -85,7 +85,7 @@ ${ROOT}
 
 
 
-### Outputs of Single Hand images
+### Outputs of images from H2O test set
 <p align="middle">
     <img src="assets/inputs.gif", height="224">
     <img src="assets/renders.gif", height="224">
