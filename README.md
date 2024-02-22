@@ -2,7 +2,8 @@
 # PDFNet: Pyramid Deep Fusion Network for Two-Hand Reconstruction from RGB-D Images
 
 ## Introduction
-* This repo is official **[PyTorch](https://pytorch.org)** implementation of **[Pyramid Deep Fusion Network for Two-Hand Reconstruction from RGB-D Images](https://arxiv.org/abs/2307.06038)**. 
+* This repo is official **[PyTorch](https://pytorch.org)** implementation of **[Pyramid Deep Fusion Network for Two-Hand Reconstruction from RGB-D Images](https://arxiv.org/abs/2307.06038)**.
+* Accepted by IEEE Transactions on Circuits and Systems for Video Technology(**T-CSVT**).
 
 ### Overview of the proposed framework
 <p align="middle">
@@ -103,8 +104,7 @@ If you find the code useful in your research, please consider citing the paper.
 @article{RenPDFNet,
 title={Pyramid Deep Fusion Network for Two-Hand Reconstruction from RGB-D Images},
 author={Jinwei Ren, Jianke Zhu},
-booktitle={Arxiv},
-month=july,
-year={2023},
+booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+year={2024},
 }
 ```
