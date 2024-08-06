@@ -2,7 +2,7 @@
 set -ex
 
 # Training
-GPU_ID=2,3
+GPU_ID=0,1
 NAME='SMHR_train'
 task='interact' 
 mode='train' # train, test, val
@@ -14,11 +14,11 @@ BATCH_SIZE=8
 # Reconstruction resolution
 Input_RES=384 # 224,512
 
-CHECKPOINTS_PATH='/home/zijinxuxu/codes/SMHR-InterHand/outputs/model_dump/Best_H2O_ours_PDF_center_2gpu_56.pth'
+CHECKPOINTS_PATH='/home/zijinxuxu/codes/PDFNet/outputs/model_dump/Best_H2O_ours_PDF_center_2gpu_56.pth'
 # CHECKPOINTS_PATH='/home/zijinxuxu/codes/SMHR-InterHand/interhand.pth'
 
 # command
-CUDA_VISIBLE_DEVICES=${GPU_ID} python -m torch.distributed.launch --master_port 12507 --nproc_per_node 2 main.py \
+CUDA_VISIBLE_DEVICES=${GPU_ID} python -m torch.distributed.launch --master_port 12509 --nproc_per_node 2 main.py \
     --task ${task} \
     --gpus 0,1 \
     --mode ${mode} \
@@ -28,11 +28,11 @@ CUDA_VISIBLE_DEVICES=${GPU_ID} python -m torch.distributed.launch --master_port 
     --bone_loss \
     --arch csp_50 \
     --avg_center \
+    --brightness \
     --reproj_loss \
-    --config_info H2O3D-PDF-ctfeat-noimgfaet-2gpu-384-aug-repeat50\
+    --config_info H2O-PDF-ctfeat-noimgfaet-2gpu-384-aug \
     --depth \
-    --lr 1e-5 \
-    --load_model ${CHECKPOINTS_PATH}
+    # --load_model ${CHECKPOINTS_PATH}
     # -withnormal-withFPS
     # --sample_strategy FPS \
     # --load_model ${CHECKPOINTS_PATH}

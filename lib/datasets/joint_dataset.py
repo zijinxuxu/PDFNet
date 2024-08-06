@@ -115,7 +115,7 @@ class JointDataset(BaseDataset):
             elif key == 'H2O':
                 if self.split == 'test':
                     # self.data += data[65120:75120:20]
-                    self.data += self.data_dict[key][:]
+                    self.data += self.data_dict[key][:100]
                     # self.data += self.data_dict[key][-3000:]
                 elif self.split == 'eval':
                     self.data += self.data_dict[key][:]

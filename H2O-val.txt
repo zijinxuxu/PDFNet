@@ -1,0 +1,198 @@
+eval 
+abs_left_joints_loss_all: 9.31
+abs_right_joints_loss_all: 9.87
+abs_left_verts_loss_all: 7.96
+abs_right_verts_loss_all: 9.14
+off_left_joints_loss_all: 5.46
+off_right_joints_loss_all: 6.65
+off_left_verts_loss_all: 5.64
+off_right_verts_loss_all: 6.69
+eval 
+abs_left_joints_loss_all: 140.25
+abs_right_joints_loss_all: 141.47
+abs_left_verts_loss_all: 88.78
+abs_right_verts_loss_all: 100.85
+off_left_joints_loss_all: 136.60
+off_right_joints_loss_all: 126.83
+off_left_verts_loss_all: 85.11
+off_right_verts_loss_all: 84.30
+eval 
+abs_left_joints_loss_all: 36.44
+abs_right_joints_loss_all: 32.35
+abs_left_verts_loss_all: 34.40
+abs_right_verts_loss_all: 31.64
+off_left_joints_loss_all: 12.37
+off_right_joints_loss_all: 17.24
+off_left_verts_loss_all: 14.50
+off_right_verts_loss_all: 18.55
+eval 
+abs_left_joints_loss_all: 25.41
+abs_right_joints_loss_all: 20.06
+abs_left_verts_loss_all: 23.65
+abs_right_verts_loss_all: 19.93
+off_left_joints_loss_all: 7.13
+off_right_joints_loss_all: 11.24
+off_left_verts_loss_all: 8.58
+off_right_verts_loss_all: 12.22
+eval 
+abs_left_joints_loss_all: 26.98
+abs_right_joints_loss_all: 16.32
+abs_left_verts_loss_all: 25.23
+abs_right_verts_loss_all: 15.83
+off_left_joints_loss_all: 8.12
+off_right_joints_loss_all: 9.80
+off_left_verts_loss_all: 9.11
+off_right_verts_loss_all: 10.36
+eval 
+abs_left_joints_loss_all: 21.14
+abs_right_joints_loss_all: 18.38
+abs_left_verts_loss_all: 19.25
+abs_right_verts_loss_all: 17.68
+off_left_joints_loss_all: 6.37
+off_right_joints_loss_all: 9.78
+off_left_verts_loss_all: 6.79
+off_right_verts_loss_all: 9.83
+eval 
+abs_left_joints_loss_all: 23.38
+abs_right_joints_loss_all: 17.90
+abs_left_verts_loss_all: 21.77
+abs_right_verts_loss_all: 17.32
+off_left_joints_loss_all: 5.65
+off_right_joints_loss_all: 9.21
+off_left_verts_loss_all: 6.15
+off_right_verts_loss_all: 9.48
+eval 
+abs_left_joints_loss_all: 10.13
+abs_right_joints_loss_all: 9.96
+abs_left_verts_loss_all: 9.27
+abs_right_verts_loss_all: 9.63
+off_left_joints_loss_all: 6.01
+off_right_joints_loss_all: 8.69
+off_left_verts_loss_all: 6.27
+off_right_verts_loss_all: 8.67
+eval 
+abs_left_joints_loss_all: 11.69
+abs_right_joints_loss_all: 10.99
+abs_left_verts_loss_all: 10.76
+abs_right_verts_loss_all: 10.60
+off_left_joints_loss_all: 5.58
+off_right_joints_loss_all: 8.56
+off_left_verts_loss_all: 5.82
+off_right_verts_loss_all: 8.57
+eval 
+abs_left_joints_loss_all: 9.51
+abs_right_joints_loss_all: 10.42
+abs_left_verts_loss_all: 8.82
+abs_right_verts_loss_all: 9.98
+off_left_joints_loss_all: 5.55
+off_right_joints_loss_all: 8.65
+off_left_verts_loss_all: 5.82
+off_right_verts_loss_all: 8.62
+eval 
+abs_left_joints_loss_all: 11.99
+abs_right_joints_loss_all: 10.42
+abs_left_verts_loss_all: 11.03
+abs_right_verts_loss_all: 9.87
+off_left_joints_loss_all: 5.88
+off_right_joints_loss_all: 8.49
+off_left_verts_loss_all: 6.14
+off_right_verts_loss_all: 8.44
+eval 
+abs_left_joints_loss_all: 9.31
+abs_right_joints_loss_all: 9.87
+abs_left_verts_loss_all: 7.96
+abs_right_verts_loss_all: 9.14
+off_left_joints_loss_all: 5.46
+off_right_joints_loss_all: 6.65
+off_left_verts_loss_all: 5.64
+off_right_verts_loss_all: 6.69
+eval 
+abs_left_joints_loss_all: 76.44
+abs_right_joints_loss_all: 89.98
+abs_left_verts_loss_all: 53.27
+abs_right_verts_loss_all: 72.37
+off_left_joints_loss_all: 54.63
+off_right_joints_loss_all: 65.32
+off_left_verts_loss_all: 36.81
+off_right_verts_loss_all: 48.86
+eval 
+abs_left_joints_loss_all: 31.85
+abs_right_joints_loss_all: 21.51
+abs_left_verts_loss_all: 29.68
+abs_right_verts_loss_all: 21.30
+off_left_joints_loss_all: 10.11
+off_right_joints_loss_all: 9.90
+off_left_verts_loss_all: 11.28
+off_right_verts_loss_all: 11.50
+eval 
+abs_left_joints_loss_all: 26.27
+abs_right_joints_loss_all: 22.01
+abs_left_verts_loss_all: 24.32
+abs_right_verts_loss_all: 21.26
+off_left_joints_loss_all: 6.01
+off_right_joints_loss_all: 8.21
+off_left_verts_loss_all: 7.00
+off_right_verts_loss_all: 9.03
+eval 
+abs_left_joints_loss_all: 23.17
+abs_right_joints_loss_all: 16.94
+abs_left_verts_loss_all: 21.38
+abs_right_verts_loss_all: 16.52
+off_left_joints_loss_all: 5.46
+off_right_joints_loss_all: 8.70
+off_left_verts_loss_all: 6.15
+off_right_verts_loss_all: 9.23
+eval 
+abs_left_joints_loss_all: 17.20
+abs_right_joints_loss_all: 11.67
+abs_left_verts_loss_all: 16.23
+abs_right_verts_loss_all: 11.21
+off_left_joints_loss_all: 5.45
+off_right_joints_loss_all: 8.17
+off_left_verts_loss_all: 5.59
+off_right_verts_loss_all: 8.19
+eval 
+abs_left_joints_loss_all: 9.83
+abs_right_joints_loss_all: 8.33
+abs_left_verts_loss_all: 8.71
+abs_right_verts_loss_all: 8.19
+off_left_joints_loss_all: 4.88
+off_right_joints_loss_all: 7.30
+off_left_verts_loss_all: 5.21
+off_right_verts_loss_all: 7.54
+eval 
+abs_left_joints_loss_all: 12.14
+abs_right_joints_loss_all: 12.14
+abs_left_verts_loss_all: 10.66
+abs_right_verts_loss_all: 11.45
+off_left_joints_loss_all: 5.98
+off_right_joints_loss_all: 8.10
+off_left_verts_loss_all: 6.12
+off_right_verts_loss_all: 8.09
+eval 
+abs_left_joints_loss_all: 10.74
+abs_right_joints_loss_all: 11.40
+abs_left_verts_loss_all: 9.37
+abs_right_verts_loss_all: 10.79
+off_left_joints_loss_all: 5.74
+off_right_joints_loss_all: 7.74
+off_left_verts_loss_all: 5.93
+off_right_verts_loss_all: 7.76
+eval 
+abs_left_joints_loss_all: 10.84
+abs_right_joints_loss_all: 11.81
+abs_left_verts_loss_all: 9.61
+abs_right_verts_loss_all: 11.13
+off_left_joints_loss_all: 5.58
+off_right_joints_loss_all: 8.35
+off_left_verts_loss_all: 5.78
+off_right_verts_loss_all: 8.28
+eval 
+abs_left_joints_loss_all: 10.49
+abs_right_joints_loss_all: 11.70
+abs_left_verts_loss_all: 9.28
+abs_right_verts_loss_all: 10.99
+off_left_joints_loss_all: 6.01
+off_right_joints_loss_all: 8.52
+off_left_verts_loss_all: 6.24
+off_right_verts_loss_all: 8.45
