@@ -82,7 +82,11 @@ ${ROOT}
 
 
 ### Training and Evaluation
-    Coming Soon...
+* Prepare RGB-D image pairs into assets.
+*  Modify `scripts/train.sh` to load_model and use gpu. 
+*  run ` bash scripts/train.sh`
+*  Switch to evaluation by modify #L8: mode='train' # train, test, val
+*  You can see rendered outputs in `outputs/color/` and accuracy logs in 'H2O-val.txt'.
 
 
 
