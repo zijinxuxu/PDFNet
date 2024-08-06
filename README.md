@@ -82,7 +82,6 @@ ${ROOT}
 
 
 ### Training and Evaluation
-* Prepare RGB-D image pairs into assets.
 *  Modify `scripts/train.sh` to load_model and use gpu. 
 *  run ` bash scripts/train.sh`
 *  Switch to evaluation by modify #L8: mode='train' # train, test, val
